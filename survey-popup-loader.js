@@ -12,7 +12,7 @@
   var config = {
     // Base URL where the Angular bundle is hosted
     // This will be the same directory as this loader script
-    baseUrl: window.location.origin + window.location.pathname.replace(/\/[^\/]*$/, ''),
+    baseUrl: 'https://atuldhuri.github.io/Survey_Widget',
     
     // Popup configuration options
     options: {
